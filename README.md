@@ -1,7 +1,7 @@
 ## 개발 뭐시기 합니다 
 
 #### 📧 : pagaye@naver.com
-#### <!--📝 :  진짜 진짜 추후 업뎃예정 -->
+#### 📝 : https://gayeonp.github.io/
 <!--
 <details>
 <summary>TMI</summary>
